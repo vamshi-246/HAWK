@@ -1,0 +1,12 @@
+names:
+- cow
+nc: 1
+roboflow:
+  license: Public Domain
+  project: hawk-windows
+  url: https://universe.roboflow.com/vamshi-9njef/hawk-windows/dataset/1
+  version: 1
+  workspace: vamshi-9njef
+test: ../test/images
+train: ../train/images
+val: ../valid/images
