@@ -23,7 +23,8 @@ __pycache__/
 # --- Ultralytics/YOLO ---
 # Do not upload the training runs, which contain saved models and logs.
 # These can be very large. Share the final model via GitHub Releases instead (see below).
-# runs/
+runs/
+runs/detect 
 
 # YOLO cache files
 *.pt.zip
